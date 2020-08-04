@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Ruby on Rails Developer
 
+- 🔭 I’m currently working as freelance
+- 🌱 I’m currently learning about blockchain, stimulus and react
+- 📫 How to reach me: you can find more about me at https://muhammadyana.me
+
+Happy coding 🎉
 <!--
 **muhammadyana/muhammadyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
