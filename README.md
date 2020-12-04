@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ruby on Rails Developer
 
 - 🔭 I’m currently working Full time freelancer
-- 🌱 I’m currently learning about blockchain, Stimulusjs and React
+- 🌱 I’m currently learning about blockchain, Stimulus and Stimulus Reflex
 - 📫 How to reach me: you can find more about me at https://muhammadyana.me
 
 Happy coding 🎉
