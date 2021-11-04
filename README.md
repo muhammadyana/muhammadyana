@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about blockchain, React, Flutter, Data science, Stimulus and Stimulus Reflex
 - 📫 How to reach me: you can find more about me at https://muhammadyana.me
 
-Happy coding 🎉
+Let's work together and make some awesome app 🎉
 <!--
 **muhammadyana/muhammadyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
