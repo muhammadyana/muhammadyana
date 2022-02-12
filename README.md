@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 ### Wakatime Status
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=yana)](https://muhammadyana.me)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
 
 ---
 
