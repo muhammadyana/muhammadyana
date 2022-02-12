@@ -19,3 +19,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+| <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyana&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="muhammadyana Sukedy github stats" /></a> | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyana&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
+| ------------- | ------------- |
+
+---
+
+### Streak Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyana&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/muhammadyana/github-profile-trophy#about-rank)
