@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 ---
 
 ### Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://muhammadyana.me)
 
 ---
 
 ### Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyana&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/muhammadyana/github-profile-trophy#about-rank)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyana&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/muhammadyana/)
