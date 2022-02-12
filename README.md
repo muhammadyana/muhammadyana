@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 
 ### Wakatime Status
+[![wakatime](https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg)](https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e)
+
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
 
 ---
