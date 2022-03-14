@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-| <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyana&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="muhammadyana Sukedy github stats" /></a> | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyana&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
+| <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyana&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="muhammadyana github stats" /></a> | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyana&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
 
 ---
