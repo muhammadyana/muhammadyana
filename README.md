@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 ### Wakatime Status
 [![wakatime](https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg)](https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e)
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
 
-[![GitHub Streak](https://wakatime.com/share/@yana/02666d7f-26c1-4a4e-bfbe-3cb384178190.svg)](https://wakatime.com/@yana)
+[![wakatime](https://wakatime.com/share/@yana/02666d7f-26c1-4a4e-bfbe-3cb384178190.svg)](https://wakatime.com/share/@yana/02666d7f-26c1-4a4e-bfbe-3cb384178190.svg)
 
-[![GitHub Streak](https://wakatime.com/share/@yana/df89098e-602d-4ced-81fa-e83b8e8a6637.svg)](https://wakatime.com/@yana)
+[![GitHub Streak](https://wakatime.com/share/@yana/df89098e-602d-4ced-81fa-e83b8e8a6637.svg)](https://wakatime.com/share/@yana/df89098e-602d-4ced-81fa-e83b8e8a6637.svg)
 
 ---
 
