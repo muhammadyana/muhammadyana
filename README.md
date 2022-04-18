@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ruby on Rails Developer
+### Hi there 👋 I'm a Software Engineer
 
 - 🔭 I’m currently working Full time freelancer
 - 🌱 I’m currently learning about blockchain, React, & Flutter
