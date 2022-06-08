@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 ---
 
+### Wakatime Status
+[![wakatime](https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg)](https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e)
+
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
+
+---
+
 | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyana&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="muhammadyana github stats" /></a> | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyana&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
 | ------------- | ------------- |
 
@@ -29,14 +36,6 @@ Here are some ideas to get you started:
 
 ### Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://muhammadyana.me)
-
----
-
-
-### Wakatime Status
-[![wakatime](https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg)](https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e)
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
 
 ---
 
