@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 ### Contribution graph
 <div>
-    <a href="#"><img alt="Yana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadyana&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <a href="#"><img alt="Yana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadyana&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
 <div> 
 
 
