@@ -42,7 +42,3 @@ Here are some ideas to get you started:
 <div>
     <a href="#"><img alt="Yana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadyana&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
 <div> 
-
-
-### Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadyana&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/muhammadyana/)
