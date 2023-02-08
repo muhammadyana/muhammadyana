@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Software Engineer
 
 - 🔭 I’m currently Working From Anywhere
-- 🌱 I’m currently learning about blockchain, React, & Flutter
+- 🌱 I’m currently learning about blockchain, React, Go & Flutter
 - 📫 How to reach me: you can find more about me at https://muhammadyana.me
 
 Let's work together and make some awesome app 🎉
