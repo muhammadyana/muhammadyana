@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a Software Engineer
 
-- 🔭 I’m currently working Full time freelancer
+- 🔭 I’m currently Working From Anywhere
 - 🌱 I’m currently learning about blockchain, React, & Flutter
 - 📫 How to reach me: you can find more about me at https://muhammadyana.me
 
