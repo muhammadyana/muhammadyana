@@ -38,11 +38,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://muhammadyana.me)
 
 ---
-### Contribution graph
-<div>
-    <a href="#"><img alt="Yana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammadyana&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
-<div> 
-
+### Contribution graph 
 <p align="center">
   <a href="https://github.com/muhammadyana">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyana&theme=radical" alt="Yana's GitHub streak"/>
