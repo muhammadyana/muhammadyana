@@ -36,17 +36,6 @@ is an engineering problem, not a prompting one.
 
 ---
 
-### Selected public work
-
-| Project | What it is |
-| --- | --- |
-| [codex-lb](https://github.com/muhammadyana/codex-lb) | ChatGPT / Codex account load balancer and proxy with usage tracking and dashboard |
-| [sistem-informasi-jadwal-sholat-API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API) | Siforlat — prayer times API built on PrayTimes.js |
-| [sistem-informasi-jadwal-sholat](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat) | Siforlat dashboard and frontend, Ruby on Rails |
-| [rest-api-rails](https://github.com/muhammadyana/rest-api-rails) | Minimal RESTful API reference on Rails 5 |
-| [qr-code-scanner-rails](https://github.com/muhammadyana/qr-code-scanner-rails) | QR code scanning in a Rails app |
-
----
 
 ### Toolbox
 
