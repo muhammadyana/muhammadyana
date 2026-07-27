@@ -1,47 +1,88 @@
-### Hi there 👋 I'm a Software Engineer
+## Muhammad Yana Mulyana
 
-- 🔭 I’m currently Working From Anywhere
-- 🌱 I’m currently learning about blockchain, React, Go & Flutter
-- 📫 How to reach me: you can find more about me at https://muhammadyana.me
+Software Engineer at [@herminadev](https://github.com/herminadev), based in Bandung, Indonesia.
+I build healthcare platform services and the tooling that keeps AI-assisted development
+honest across a large multi-repository codebase.
 
-Let's work together and make some awesome app 🎉
-<!--
-**muhammadyana/muhammadyana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Currently building:** Rails 8 / Ruby 4 and Go (Kratos) service backends, React + Vite +
+  Ant Design and Next.js frontends, Expo / React Native mobile, on PostgreSQL and Kubernetes.
+- **Currently exploring:** agentic engineering — multi-agent orchestration, retrieval over
+  code knowledge graphs, and local-first memory for coding agents.
+- **More about me:** [muhammadyana.me](https://muhammadyana.me)
 
 ---
 
-### Wakatime Status
-[![wakatime](https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg)](https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e)
+### Working with coding agents
 
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yana&layout=compact)](https://wakatime.com/@yana)
+Most of my engineering now runs through coding agents, so I spend a lot of time building the
+infrastructure that keeps them coherent:
+
+- **agent-memory** — a cross-agent memory layer. It reads session history from six agents
+  (Claude Code, Codex, OpenCode, Kimi CLI, DeepSeek, Copilot), normalizes it, matches every
+  session to the repository it belongs to, and indexes it in PostgreSQL + pgvector next to a
+  human-readable Obsidian vault. Hybrid retrieval is exposed over a CLI and an MCP server, so
+  each agent works from the same memory instead of starting cold. Over 1,700 sessions indexed
+  so far. Python, Typer, SQLAlchemy, Alembic, pgvector.
+- **Code knowledge graph** — a Tree-sitter-parsed, incrementally updated graph of the codebase
+  used for impact radius, caller and callee tracing, and token-efficient review context. Cheaper
+  and far more structural than scanning files.
+- **[codex-lb](https://github.com/muhammadyana/codex-lb)** — load balancer and proxy for pooled
+  ChatGPT / Codex accounts: usage tracking, API key management, a dashboard, and
+  OpenCode-compatible endpoints. Python, FastAPI, SQLAlchemy, OAuth.
+
+The consistent lesson: agents are only as good as the context you can hand them, and context
+is an engineering problem, not a prompting one.
 
 ---
 
-| <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadyana&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true" alt="muhammadyana github stats" /></a> | <a href="https://github.com/muhammadyana"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadyana&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true" /></a> |
-| ------------- | ------------- |
+### Selected public work
+
+| Project | What it is |
+| --- | --- |
+| [codex-lb](https://github.com/muhammadyana/codex-lb) | ChatGPT / Codex account load balancer and proxy with usage tracking and dashboard |
+| [sistem-informasi-jadwal-sholat-API](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat-API) | Siforlat — prayer times API built on PrayTimes.js |
+| [sistem-informasi-jadwal-sholat](https://github.com/muhammadyana/sistem-informasi-jadwal-sholat) | Siforlat dashboard and frontend, Ruby on Rails |
+| [rest-api-rails](https://github.com/muhammadyana/rest-api-rails) | Minimal RESTful API reference on Rails 5 |
+| [qr-code-scanner-rails](https://github.com/muhammadyana/qr-code-scanner-rails) | QR code scanning in a Rails app |
 
 ---
 
-### Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muhammadyana&theme=default&date_format=M%20j%5B%2C%20Y%5D)](https://muhammadyana.me)
+### Toolbox
+
+**Backend** Ruby on Rails, Go (Kratos), Python (FastAPI), Node.js
+
+**Frontend** React, Next.js, Vite, Ant Design, Tailwind
+
+**Mobile** React Native, Expo
+
+**Data** PostgreSQL, pgvector, Redis, Elasticsearch
+
+**Infra** Docker, Kubernetes, AWS, GitHub Actions
+
+**AI** MCP servers, RAG and hybrid retrieval, multi-agent orchestration
 
 ---
-### Contribution graph 
+
+### Stats
+
 <p align="center">
-  <a href="https://github.com/muhammadyana">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyana&theme=radical" alt="Yana's GitHub streak"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyana&theme=github_dark" alt="Profile details" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadyana&theme=github_dark" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadyana&theme=github_dark" alt="Most committed language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadyana&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadyana&theme=github_dark&utcOffset=7" alt="Productive time" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadyana&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" /></a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e"><img src="https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg" alt="WakaTime" /></a>
+</p>
