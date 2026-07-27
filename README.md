@@ -1,8 +1,9 @@
 ## Muhammad Yana Mulyana
 
-Software Engineer at [@herminadev](https://github.com/herminadev), based in Bandung, Indonesia.
-I build healthcare platform services and the tooling that keeps AI-assisted development
-honest across a large multi-repository codebase.
+Senior Engineer at [@NinjaOne](https://github.com/NinjaOne), based in Bandung, Indonesia.
+I also build healthcare platform services at [@herminadev](https://github.com/herminadev),
+along with the tooling that keeps AI-assisted development honest across a large
+multi-repository codebase.
 
 - **Currently building:** Rails 8 / Ruby 4 and Go (Kratos) service backends, React + Vite +
   Ant Design and Next.js frontends, Expo / React Native mobile, on PostgreSQL and Kubernetes.
@@ -66,17 +67,8 @@ is an engineering problem, not a prompting one.
 ### Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadyana&theme=github_dark" alt="Profile details" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadyana&theme=github_dark" alt="Repositories per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadyana&theme=github_dark" alt="Most committed language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadyana&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadyana&theme=github_dark&utcOffset=7" alt="Productive time" />
 </p>
 
 <p align="center">
