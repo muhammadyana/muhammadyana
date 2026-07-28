@@ -1,59 +1,61 @@
-## Muhammad Yana Mulyana
+# Muhammad Yana Mulyana
 
-Senior Engineer at [@NinjaOne](https://github.com/NinjaOne), based in Bandung, Indonesia.
-I also build healthcare platform services at [@herminadev](https://github.com/herminadev),
-along with the tooling that keeps AI-assisted development honest across a large
-multi-repository codebase.
+**Senior Engineer at [NinjaOne](https://github.com/NinjaOne)** · Healthcare platform engineering at
+[Hermina](https://github.com/herminadev) · Bandung, Indonesia
 
-- **Currently building:** Rails 8 / Ruby 4 and Go (Kratos) service backends, React + Vite +
-  Ant Design and Next.js frontends, Expo / React Native mobile, on PostgreSQL and Kubernetes.
-- **Currently exploring:** agentic engineering — multi-agent orchestration, retrieval over
-  code knowledge graphs, and local-first memory for coding agents.
-- **More about me:** [muhammadyana.me](https://muhammadyana.me)
+Backend and platform engineer working across Ruby on Rails, Go, and Python services in
+production healthcare and IT-operations environments. Alongside product work, I build the
+retrieval and memory infrastructure that makes AI-assisted development reliable at
+multi-repository scale.
 
----
-
-### Working with coding agents
-
-Most of my engineering now runs through coding agents, so I spend a lot of time building the
-infrastructure that keeps them coherent:
-
-- **agent-memory** — a cross-agent memory layer. It reads session history from six agents
-  (Claude Code, Codex, OpenCode, Kimi CLI, DeepSeek, Copilot), normalizes it, matches every
-  session to the repository it belongs to, and indexes it in PostgreSQL + pgvector next to a
-  human-readable Obsidian vault. Hybrid retrieval is exposed over a CLI and an MCP server, so
-  each agent works from the same memory instead of starting cold. Over 1,700 sessions indexed
-  so far. Python, Typer, SQLAlchemy, Alembic, pgvector.
-- **Code knowledge graph** — a Tree-sitter-parsed, incrementally updated graph of the codebase
-  used for impact radius, caller and callee tracing, and token-efficient review context. Cheaper
-  and far more structural than scanning files.
-- **[codex-lb](https://github.com/muhammadyana/codex-lb)** — load balancer and proxy for pooled
-  ChatGPT / Codex accounts: usage tracking, API key management, a dashboard, and
-  OpenCode-compatible endpoints. Python, FastAPI, SQLAlchemy, OAuth.
-
-The consistent lesson: agents are only as good as the context you can hand them, and context
-is an engineering problem, not a prompting one.
+[muhammadyana.me](https://muhammadyana.me)
 
 ---
 
+## Focus areas
 
-### Toolbox
+**Platform engineering.** Service backends on Ruby on Rails 8 and Go with the Kratos framework,
+paired with React, Next.js, and React Native clients. PostgreSQL, Kubernetes, and AWS underneath.
 
-**Backend** Ruby on Rails, Go (Kratos), Python (FastAPI), Node.js
-
-**Frontend** React, Next.js, Vite, Ant Design, Tailwind
-
-**Mobile** React Native, Expo
-
-**Data** PostgreSQL, pgvector, Redis, Elasticsearch
-
-**Infra** Docker, Kubernetes, AWS, GitHub Actions
-
-**AI** MCP servers, RAG and hybrid retrieval, multi-agent orchestration
+**Tooling for AI-assisted engineering.** Context and retrieval infrastructure for coding agents:
+cross-agent session memory, code knowledge graphs, and MCP servers. The premise is that agent
+quality is bounded by the context you can supply, which makes context an engineering concern
+rather than a prompting one.
 
 ---
 
-### Stats
+## Engineering tooling
+
+**agent-memory** — A cross-agent memory layer. It ingests session history from six coding agents
+(Claude Code, Codex, OpenCode, Kimi CLI, DeepSeek, Copilot), normalizes it, resolves each session
+to its originating repository, and indexes the result in PostgreSQL with pgvector alongside a
+human-readable Obsidian vault. Hybrid retrieval is exposed through a CLI and an MCP server so
+every agent operates from shared memory. Over 1,700 sessions indexed to date.
+Python, Typer, SQLAlchemy, Alembic, pgvector.
+
+**Code knowledge graph** — An incrementally updated, Tree-sitter-parsed graph of the codebase,
+used for impact-radius analysis, caller and callee tracing, and token-efficient review context.
+
+**[codex-lb](https://github.com/muhammadyana/codex-lb)** — Load balancer and proxy for pooled
+ChatGPT and Codex accounts, providing usage tracking, API key management, an operations
+dashboard, and OpenCode-compatible endpoints. Python, FastAPI, SQLAlchemy, OAuth.
+
+---
+
+## Technical stack
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Ruby on Rails, Go (Kratos), Python (FastAPI), Node.js |
+| Frontend | React, Next.js, Vite, Ant Design, Tailwind CSS |
+| Mobile | React Native, Expo |
+| Data | PostgreSQL, pgvector, Redis, Elasticsearch |
+| Infrastructure | Docker, Kubernetes, AWS, GitHub Actions |
+| AI systems | MCP servers, RAG and hybrid retrieval, multi-agent orchestration |
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadyana&theme=github_dark" alt="Repositories per language" />
@@ -61,9 +63,9 @@ is an engineering problem, not a prompting one.
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadyana&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadyana&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e"><img src="https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg" alt="WakaTime" /></a>
+  <a href="https://wakatime.com/@4fbba004-bd97-43a4-889e-7b9531bfc14e"><img src="https://wakatime.com/badge/user/4fbba004-bd97-43a4-889e-7b9531bfc14e.svg" alt="WakaTime hours tracked" /></a>
 </p>
