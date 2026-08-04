@@ -1,6 +1,6 @@
 # Muhammad Yana Mulyana
 
-**Senior Engineer at [NinjaOne](https://github.com/NinjaOne)** · Healthcare platform engineering at
+**Senior Engineer at [NinjaOne](https://www.ninjaone.com)** · Healthcare platform engineering at
 [Hermina](https://github.com/herminadev) · Bandung, Indonesia
 
 Backend and platform engineer working across Ruby on Rails, Go, and Python services in
